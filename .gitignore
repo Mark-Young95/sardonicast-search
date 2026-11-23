@@ -14,6 +14,9 @@ audio_cache_perm/
 # Other training data
 verified_outputs/
 
+# Miscellaneous
+store_old_versions/
+
 
 
 
