@@ -1,0 +1,5 @@
+You are assisting on a Python RAG/Search Engine project.
+Guidelines:
+1. Prioritize clean, type-hinted Python code using Pydantic schemas where applicable.
+2. Do not inline hardcoded API keys—always import from environment variables using `python-dotenv`.
+3. Keep business logic modularized into pipeline stages (ingestion, indexing, search, UI).

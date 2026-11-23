@@ -1,0 +1,17 @@
+# Data Ingestion & Utilities
+youtube-transcript-api>=1.0.0
+python-dotenv
+pydantic
+
+# Vector Search & Embeddings
+qdrant-client
+fastembed
+sentence-transformers
+
+# LLMs & API Routers
+openai
+litellm
+
+# Frontend UI & Deployment
+streamlit
+streamlit-extras

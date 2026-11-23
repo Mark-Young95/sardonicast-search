@@ -1,0 +1,586 @@
+video_id,timestamp,status,probability
+01Fcmcwk15E,01:30,False Positive,0.8299
+01Fcmcwk15E,05:20,False Positive,0.7365
+01Fcmcwk15E,12:20,False Positive,0.779
+01Fcmcwk15E,46:50,Ground Truth (True Positive),0.642
+01Fcmcwk15E,49:50,False Positive,0.5547
+01Fcmcwk15E,67:10,False Positive,0.6449
+01Fcmcwk15E,77:20,Ground Truth (True Positive),0.938
+01Fcmcwk15E,117:00,Ground Truth (True Positive),0.9323
+0OYydixtVA8,04:40,False Positive,0.7991
+0OYydixtVA8,07:40,False Positive,0.6731
+0OYydixtVA8,15:50,Ground Truth (True Positive),0.6718
+0OYydixtVA8,35:30,Ground Truth (True Positive),0.8809
+0OYydixtVA8,63:50,Ground Truth (True Positive),0.8861
+0OYydixtVA8,115:00,Ground Truth (True Positive),0.9438
+0dRTNWui2qM,29:20,Ground Truth (True Positive),0.7547
+0dRTNWui2qM,31:40,False Positive,0.5718
+0dRTNWui2qM,56:00,Ground Truth (True Positive),0.6862
+0dRTNWui2qM,93:30,Ground Truth (True Positive),0.9752
+0rx44FdnEIY,02:10,False Positive,0.8639
+0rx44FdnEIY,13:10,Ground Truth (True Positive),0.8792
+0rx44FdnEIY,26:00,Ground Truth (True Positive),0.927
+0rx44FdnEIY,29:00,False Positive,0.6186
+0rx44FdnEIY,61:40,False Positive,0.6057
+0rx44FdnEIY,64:00,Ground Truth (True Positive),0.97
+1MVRQj2vr9Q,07:10,Ground Truth (True Positive),0.8598
+1MVRQj2vr9Q,13:50,False Positive,0.6878
+1MVRQj2vr9Q,16:50,False Positive,0.7676
+1MVRQj2vr9Q,53:50,Ground Truth (True Positive),0.8979
+1MVRQj2vr9Q,80:40,Ground Truth (True Positive),0.8889
+1MVRQj2vr9Q,88:30,Ground Truth (True Positive),0.7952
+1MVRQj2vr9Q,112:30,Ground Truth (True Positive),0.8734
+1PaTzu-auA8,02:20,Ground Truth (True Positive),0.8449
+1PaTzu-auA8,19:20,Ground Truth (True Positive),0.8941
+1PaTzu-auA8,43:40,Ground Truth (True Positive),0.7349
+1PaTzu-auA8,68:50,Ground Truth (True Positive),0.6799
+1s5SWZNR0Z4,06:00,Ground Truth (True Positive),0.7248
+1s5SWZNR0Z4,25:00,Ground Truth (True Positive),0.6578
+1s5SWZNR0Z4,51:10,False Positive,0.801
+1s5SWZNR0Z4,54:20,Ground Truth (True Positive),0.9149
+1s5SWZNR0Z4,93:50,Ground Truth (True Positive),0.9638
+4IP8hfMPzas,19:50,False Positive,0.5708
+4IP8hfMPzas,48:30,Ground Truth (True Positive),0.9397
+4IP8hfMPzas,66:30,Ground Truth (True Positive),0.8997
+4IP8hfMPzas,111:50,Ground Truth (True Positive),0.9698
+5rL7bBwOuio,01:50,False Positive,0.741
+5rL7bBwOuio,29:00,Ground Truth (True Positive),0.907
+5rL7bBwOuio,38:50,False Positive,0.5955
+5rL7bBwOuio,69:30,False Positive,0.8816
+5rL7bBwOuio,73:10,Ground Truth (True Positive),0.8841
+5rL7bBwOuio,117:10,Ground Truth (True Positive),0.9695
+6O5bEy7_bSM,06:10,Ground Truth (True Positive),0.8492
+6O5bEy7_bSM,09:50,False Positive,0.8114
+6O5bEy7_bSM,22:20,False Positive,0.7799
+6O5bEy7_bSM,24:30,Ground Truth (True Positive),0.9319
+6O5bEy7_bSM,43:30,Ground Truth (True Positive),0.6474
+6O5bEy7_bSM,72:00,Ground Truth (True Positive),0.964
+6QxmbwpFRF4,01:40,Ground Truth (True Positive),0.6131
+6QxmbwpFRF4,23:20,False Positive,0.7536
+6QxmbwpFRF4,52:10,Ground Truth (True Positive),0.929
+6QxmbwpFRF4,98:30,Ground Truth (True Positive),0.9278
+6jGjbEm99CI,02:20,False Positive,0.9154
+6jGjbEm99CI,05:40,False Positive,0.8787
+6jGjbEm99CI,10:30,False Positive,0.6764
+6jGjbEm99CI,22:50,False Positive,0.932
+6jGjbEm99CI,64:50,False Positive,0.8982
+6jGjbEm99CI,68:50,Ground Truth (True Positive),0.7719
+6jGjbEm99CI,88:50,Ground Truth (True Positive),0.7822
+7nlPtTUtHrw,02:50,Ground Truth (True Positive),0.8195
+7nlPtTUtHrw,39:10,False Positive,0.5864
+7nlPtTUtHrw,71:50,Ground Truth (True Positive),0.932
+7nlPtTUtHrw,100:00,Ground Truth (True Positive),0.9704
+7qxWAC4A0yk,08:40,Ground Truth (True Positive),0.8605
+7qxWAC4A0yk,37:30,False Positive,0.9352
+7qxWAC4A0yk,64:40,False Positive,0.5828
+7qxWAC4A0yk,74:50,Ground Truth (True Positive),0.937
+7qxWAC4A0yk,111:20,False Positive,0.5524
+7qxWAC4A0yk,115:10,Ground Truth (True Positive),0.8605
+8nP1uXKmwSY,01:50,Ground Truth (True Positive),0.9044
+8nP1uXKmwSY,13:10,False Positive,0.7694
+8nP1uXKmwSY,24:20,Ground Truth (True Positive),0.9192
+8nP1uXKmwSY,54:40,Ground Truth (True Positive),0.9357
+8nP1uXKmwSY,64:50,False Positive,0.8735
+8nP1uXKmwSY,113:00,Ground Truth (True Positive),0.963
+8zNF77wosvQ,06:20,Ground Truth (True Positive),0.8657
+8zNF77wosvQ,10:30,Ground Truth (True Positive),0.8592
+8zNF77wosvQ,13:20,False Positive,0.7708
+8zNF77wosvQ,35:50,False Positive,0.7508
+8zNF77wosvQ,41:20,False Positive,0.9013
+8zNF77wosvQ,44:40,False Positive,0.8995
+8zNF77wosvQ,87:20,Ground Truth (True Positive),0.9406
+8zNF77wosvQ,110:20,False Positive,0.5779
+9FqJN-6iq9I,04:50,False Positive,0.8805
+9FqJN-6iq9I,26:40,False Positive,0.7171
+9FqJN-6iq9I,44:50,False Positive,0.6862
+9FqJN-6iq9I,49:50,False Positive,0.68
+9FqJN-6iq9I,115:40,False Positive,0.635
+9FqJN-6iq9I,118:00,Ground Truth (True Positive),0.9558
+9MTD8kOpGhk,54:30,Ground Truth (True Positive),0.9036
+9MTD8kOpGhk,59:30,False Positive,0.8097
+9MTD8kOpGhk,105:10,Ground Truth (True Positive),0.9708
+9OZAYwBtTHo,01:40,Ground Truth (True Positive),0.8527
+9OZAYwBtTHo,70:30,Ground Truth (True Positive),0.6211
+9OZAYwBtTHo,91:30,Ground Truth (True Positive),0.9299
+9OZAYwBtTHo,121:50,Ground Truth (True Positive),0.9365
+9dyGSglqflk,04:40,Ground Truth (True Positive),0.7981
+9dyGSglqflk,30:40,Ground Truth (True Positive),0.8317
+9dyGSglqflk,52:40,Ground Truth (True Positive),0.9433
+A0Wy9u6DPj8,05:00,Ground Truth (True Positive),0.8846
+A0Wy9u6DPj8,10:30,Ground Truth (True Positive),0.854
+A0Wy9u6DPj8,15:30,Ground Truth (True Positive),0.8843
+A0Wy9u6DPj8,27:10,Ground Truth (True Positive),0.95
+A0Wy9u6DPj8,74:20,Ground Truth (True Positive),0.9675
+AExOwJa58no,27:10,Ground Truth (True Positive),0.6923
+AExOwJa58no,64:00,Ground Truth (True Positive),0.929
+AExOwJa58no,92:50,Ground Truth (True Positive),0.921
+ANsRcUCwrbI,04:00,False Positive,0.761
+ANsRcUCwrbI,06:10,False Positive,0.8162
+ANsRcUCwrbI,31:00,Ground Truth (True Positive),0.7138
+ANsRcUCwrbI,75:00,Ground Truth (True Positive),0.9705
+AhY_XvQt2KU,01:40,False Positive,0.8262
+AhY_XvQt2KU,16:00,Ground Truth (True Positive),0.8931
+AhY_XvQt2KU,21:20,False Positive,0.7741
+AhY_XvQt2KU,36:10,False Positive,0.5989
+AhY_XvQt2KU,40:50,Ground Truth (True Positive),0.6534
+AhY_XvQt2KU,45:50,False Positive,0.6986
+AhY_XvQt2KU,61:40,Ground Truth (True Positive),0.6152
+AhY_XvQt2KU,84:20,Ground Truth (True Positive),0.9666
+AnNI-4ihV9c,01:00,False Positive,0.6383
+AnNI-4ihV9c,33:30,False Positive,0.6009
+AnNI-4ihV9c,75:50,False Positive,0.6397
+AnNI-4ihV9c,89:00,Ground Truth (True Positive),0.6353
+AnNI-4ihV9c,115:30,Ground Truth (True Positive),0.5817
+AnNI-4ihV9c,157:20,Ground Truth (True Positive),0.9683
+AuUHVdAKS_Y,05:00,False Positive,0.8575
+AuUHVdAKS_Y,12:40,False Positive,0.8729
+AuUHVdAKS_Y,15:50,False Positive,0.8498
+AuUHVdAKS_Y,30:00,False Positive,0.7302
+AuUHVdAKS_Y,36:00,Ground Truth (True Positive),0.7502
+AuUHVdAKS_Y,56:00,Ground Truth (True Positive),0.9367
+AuUHVdAKS_Y,93:20,Ground Truth (True Positive),0.8812
+BZLbkzMX57Y,01:20,False Positive,0.8251
+BZLbkzMX57Y,04:30,Ground Truth (True Positive),0.8918
+BZLbkzMX57Y,24:00,False Positive,0.7332
+BZLbkzMX57Y,34:00,False Positive,0.8763
+BZLbkzMX57Y,36:20,Ground Truth (True Positive),0.9347
+BZLbkzMX57Y,66:00,Ground Truth (True Positive),0.9343
+BZLbkzMX57Y,80:00,Ground Truth (True Positive),0.8988
+BZLbkzMX57Y,115:20,Ground Truth (True Positive),0.9549
+Ce3IJL3pPwg,01:20,False Positive,0.8592
+Ce3IJL3pPwg,04:30,False Positive,0.84
+Ce3IJL3pPwg,16:30,False Positive,0.7239
+Ce3IJL3pPwg,23:50,False Positive,0.5653
+Ce3IJL3pPwg,31:20,False Positive,0.6045
+Ce3IJL3pPwg,45:20,False Positive,0.7675
+Ce3IJL3pPwg,47:50,Ground Truth (True Positive),0.772
+Ce3IJL3pPwg,86:50,Ground Truth (True Positive),0.9607
+Ds_FVmolrrM,09:10,Ground Truth (True Positive),0.7893
+Ds_FVmolrrM,33:00,Ground Truth (True Positive),0.7302
+Ds_FVmolrrM,101:10,Ground Truth (True Positive),0.9735
+FGNmMheGw8c,17:10,False Positive,0.6678
+FGNmMheGw8c,20:40,Ground Truth (True Positive),0.9259
+FGNmMheGw8c,35:20,False Positive,0.6498
+FGNmMheGw8c,66:00,Ground Truth (True Positive),0.8276
+FGNmMheGw8c,90:40,Ground Truth (True Positive),0.8205
+FGNmMheGw8c,93:20,False Positive,0.9618
+FXv2XUshrNE,01:40,False Positive,0.8591
+FXv2XUshrNE,33:40,Ground Truth (True Positive),0.8224
+FXv2XUshrNE,73:30,False Positive,0.6188
+FXv2XUshrNE,85:20,Ground Truth (True Positive),0.9384
+FXv2XUshrNE,114:40,Ground Truth (True Positive),0.9665
+GDiZzicN71w,01:10,Ground Truth (True Positive),0.8321
+GDiZzicN71w,29:40,Ground Truth (True Positive),0.7903
+GDiZzicN71w,51:00,Ground Truth (True Positive),0.9273
+GDiZzicN71w,73:50,Ground Truth (True Positive),0.97
+GkAxbUVqHVQ,01:00,False Positive,0.7655
+GkAxbUVqHVQ,04:50,False Positive,0.8719
+GkAxbUVqHVQ,13:10,False Positive,0.6831
+GkAxbUVqHVQ,30:30,Ground Truth (True Positive),0.9263
+GkAxbUVqHVQ,70:50,Ground Truth (True Positive),0.9372
+GkAxbUVqHVQ,107:30,Ground Truth (True Positive),0.8555
+HPVFbp_CBFA,08:00,Ground Truth (True Positive),0.8928
+HPVFbp_CBFA,35:20,False Positive,0.9336
+HPVFbp_CBFA,37:50,Ground Truth (True Positive),0.803
+HPVFbp_CBFA,70:20,False Positive,0.6216
+HPVFbp_CBFA,72:50,Ground Truth (True Positive),0.9281
+HPVFbp_CBFA,104:40,Ground Truth (True Positive),0.9706
+I7IycKwKZ0c,73:40,Ground Truth (True Positive),0.9232
+I7IycKwKZ0c,76:30,False Positive,0.7355
+I7IycKwKZ0c,112:40,Ground Truth (True Positive),0.9619
+JtEkJ22uDAY,01:30,Ground Truth (True Positive),0.7822
+JtEkJ22uDAY,10:40,Ground Truth (True Positive),0.8585
+JtEkJ22uDAY,27:40,Ground Truth (True Positive),0.8907
+JtEkJ22uDAY,63:40,Ground Truth (True Positive),0.962
+LT_rSGNHHtA,38:00,Ground Truth (True Positive),0.9018
+LT_rSGNHHtA,42:20,False Positive,0.868
+LT_rSGNHHtA,55:10,Ground Truth (True Positive),0.9412
+LT_rSGNHHtA,73:50,Ground Truth (True Positive),0.6676
+LT_rSGNHHtA,80:00,Ground Truth (True Positive),0.8525
+MCwW-vnG5S8,03:20,False Positive,0.8489
+MCwW-vnG5S8,11:30,False Positive,0.7407
+MCwW-vnG5S8,22:40,False Positive,0.9156
+MCwW-vnG5S8,25:20,Ground Truth (True Positive),0.9216
+MCwW-vnG5S8,41:00,Ground Truth (True Positive),0.9177
+MCwW-vnG5S8,66:40,Ground Truth (True Positive),0.9729
+MH0_ccLF_wQ,01:20,Ground Truth (True Positive),0.8437
+MH0_ccLF_wQ,26:10,Ground Truth (True Positive),0.9264
+MH0_ccLF_wQ,36:30,Ground Truth (True Positive),0.7625
+MH0_ccLF_wQ,56:10,Ground Truth (True Positive),0.8778
+NP-YRmcWzqE,03:40,Ground Truth (True Positive),0.8907
+NP-YRmcWzqE,11:10,False Positive,0.8438
+NP-YRmcWzqE,18:20,False Positive,0.8044
+NP-YRmcWzqE,30:50,False Positive,0.7021
+NP-YRmcWzqE,56:40,Ground Truth (True Positive),0.6653
+NP-YRmcWzqE,84:30,Ground Truth (True Positive),0.9235
+NP-YRmcWzqE,88:50,False Positive,0.6848
+NP-YRmcWzqE,119:40,Ground Truth (True Positive),0.9295
+NWRf6vTheB4,01:20,False Positive,0.8337
+NWRf6vTheB4,57:20,Ground Truth (True Positive),0.6468
+NWRf6vTheB4,90:00,Ground Truth (True Positive),0.927
+NWRf6vTheB4,128:50,Ground Truth (True Positive),0.9661
+Nf2wmGN3mkQ,02:50,Ground Truth (True Positive),0.8687
+Nf2wmGN3mkQ,09:40,False Positive,0.7225
+Nf2wmGN3mkQ,25:10,Ground Truth (True Positive),0.9061
+Nf2wmGN3mkQ,38:40,False Positive,0.9015
+Nf2wmGN3mkQ,43:20,Ground Truth (True Positive),0.9395
+Nf2wmGN3mkQ,46:50,False Positive,0.7789
+Nf2wmGN3mkQ,71:30,Ground Truth (True Positive),0.9619
+Nf2wmGN3mkQ,77:00,False Positive,0.6087
+NiTtWpPrVp4,16:30,False Positive,0.582
+NiTtWpPrVp4,46:40,Ground Truth (True Positive),0.9424
+NiTtWpPrVp4,49:00,False Positive,0.6125
+NiTtWpPrVp4,55:00,False Positive,0.5912
+NiTtWpPrVp4,86:30,Ground Truth (True Positive),0.7195
+NiTtWpPrVp4,95:50,False Positive,0.7623
+Ojz0sskxFBo,44:20,Ground Truth (True Positive),0.9161
+Ojz0sskxFBo,144:30,Ground Truth (True Positive),0.9731
+PWyWirZiHsg,01:40,Ground Truth (True Positive),0.867
+PWyWirZiHsg,29:00,Ground Truth (True Positive),0.9401
+PWyWirZiHsg,65:30,Ground Truth (True Positive),0.937
+PWyWirZiHsg,90:20,Ground Truth (True Positive),0.9709
+QCv6CJNVJi8,35:10,False Positive,0.8032
+QCv6CJNVJi8,39:30,Ground Truth (True Positive),0.9194
+QCv6CJNVJi8,73:50,False Positive,0.7949
+QCv6CJNVJi8,102:40,Ground Truth (True Positive),0.9733
+QKA13IdBZd4,01:10,False Positive,0.8066
+QKA13IdBZd4,03:50,Ground Truth (True Positive),0.8495
+QKA13IdBZd4,40:00,Ground Truth (True Positive),0.747
+QKA13IdBZd4,42:20,False Positive,0.5612
+QKA13IdBZd4,98:50,Ground Truth (True Positive),0.7164
+QKA13IdBZd4,101:50,False Positive,0.9651
+QQ7X33bzLBQ,09:20,False Positive,0.7402
+QQ7X33bzLBQ,14:40,Ground Truth (True Positive),0.795
+QQ7X33bzLBQ,45:00,False Positive,0.6442
+QQ7X33bzLBQ,47:50,Ground Truth (True Positive),0.6454
+QQ7X33bzLBQ,54:00,False Positive,0.6479
+QQ7X33bzLBQ,69:50,False Positive,0.7209
+QQ7X33bzLBQ,74:20,Ground Truth (True Positive),0.8962
+QQ7X33bzLBQ,127:40,Ground Truth (True Positive),0.9667
+Q_jR1U82wvc,04:20,Ground Truth (True Positive),0.7852
+Q_jR1U82wvc,66:20,Ground Truth (True Positive),0.9283
+Q_jR1U82wvc,110:30,Ground Truth (True Positive),0.9714
+RFetquVwQiE,03:50,Ground Truth (True Positive),0.8813
+RFetquVwQiE,20:50,False Positive,0.6584
+RFetquVwQiE,41:50,Ground Truth (True Positive),0.9184
+RFetquVwQiE,68:10,False Positive,0.6425
+RFetquVwQiE,94:50,Ground Truth (True Positive),0.9307
+RFetquVwQiE,138:50,Ground Truth (True Positive),0.9732
+STFAcONCXRM,30:30,Ground Truth (True Positive),0.9374
+STFAcONCXRM,65:30,Ground Truth (True Positive),0.9239
+STFAcONCXRM,91:40,Ground Truth (True Positive),0.9698
+SYjANODJkzc,03:10,False Positive,0.8067
+SYjANODJkzc,08:30,False Positive,0.7917
+SYjANODJkzc,19:20,False Positive,0.7026
+SYjANODJkzc,39:00,False Positive,0.6316
+SYjANODJkzc,59:40,False Positive,0.6233
+SYjANODJkzc,121:40,Ground Truth (True Positive),0.9721
+TVZBFjs8EAI,14:50,False Positive,0.6676
+TVZBFjs8EAI,58:30,False Positive,0.759
+TVZBFjs8EAI,64:00,Ground Truth (True Positive),0.9
+TVZBFjs8EAI,111:30,Ground Truth (True Positive),0.9527
+TVZBFjs8EAI,140:40,Ground Truth (True Positive),0.8882
+Tuiv84ZDRyM,05:10,Ground Truth (True Positive),0.8814
+Tuiv84ZDRyM,25:50,Ground Truth (True Positive),0.7269
+Tuiv84ZDRyM,98:20,Ground Truth (True Positive),0.9726
+VfBes3X1ovk,11:50,False Positive,0.8839
+VfBes3X1ovk,14:40,False Positive,0.6863
+VfBes3X1ovk,36:00,Ground Truth (True Positive),0.9356
+VfBes3X1ovk,44:30,False Positive,0.5789
+VfBes3X1ovk,62:10,Ground Truth (True Positive),0.9254
+VfBes3X1ovk,86:10,Ground Truth (True Positive),0.9701
+VqoBXdHw87g,09:10,False Positive,0.6338
+VqoBXdHw87g,34:00,Ground Truth (True Positive),0.7835
+VqoBXdHw87g,55:10,Ground Truth (True Positive),0.5565
+VqoBXdHw87g,78:50,False Positive,0.6799
+VqoBXdHw87g,82:10,Ground Truth (True Positive),0.97
+W43k4lgx6pM,34:30,Ground Truth (True Positive),0.9605
+W43k4lgx6pM,71:10,Ground Truth (True Positive),0.9265
+W43k4lgx6pM,107:10,Ground Truth (True Positive),0.9616
+WCA8Jt_qrG4,26:10,False Positive,0.5514
+WCA8Jt_qrG4,28:40,False Positive,0.6284
+WCA8Jt_qrG4,35:40,False Positive,0.631
+WCA8Jt_qrG4,61:10,Ground Truth (True Positive),0.9341
+WCA8Jt_qrG4,97:30,Ground Truth (True Positive),0.9586
+WZP1ab8i9nk,74:50,Ground Truth (True Positive),0.9391
+WZP1ab8i9nk,115:10,Ground Truth (True Positive),0.8605
+Wl-4iuEgXoo,33:40,False Positive,0.6732
+Wl-4iuEgXoo,36:10,Ground Truth (True Positive),0.9288
+Wl-4iuEgXoo,71:10,False Positive,0.92
+Wl-4iuEgXoo,105:50,Ground Truth (True Positive),0.7813
+Wl-4iuEgXoo,141:30,Ground Truth (True Positive),0.9572
+WpC75FsTKgI,01:20,Ground Truth (True Positive),0.8613
+WpC75FsTKgI,05:10,Ground Truth (True Positive),0.8615
+WpC75FsTKgI,09:30,Ground Truth (True Positive),0.8665
+WpC75FsTKgI,49:20,Ground Truth (True Positive),0.9225
+WpC75FsTKgI,97:20,False Positive,0.8874
+Xaal5pQ-Zl0,01:10,False Positive,0.7517
+Xaal5pQ-Zl0,05:00,Ground Truth (True Positive),0.7539
+Xaal5pQ-Zl0,29:10,Ground Truth (True Positive),0.8062
+Xaal5pQ-Zl0,54:00,Ground Truth (True Positive),0.6216
+Xaal5pQ-Zl0,61:50,Ground Truth (True Positive),0.919
+Xaal5pQ-Zl0,104:30,Ground Truth (True Positive),0.9729
+Xdrf3vy7Edk,47:00,Ground Truth (True Positive),0.9459
+Xdrf3vy7Edk,89:50,Ground Truth (True Positive),0.8451
+XknVaaXJY_k,02:10,Ground Truth (True Positive),0.8752
+XknVaaXJY_k,10:20,Ground Truth (True Positive),0.8459
+XknVaaXJY_k,16:20,Ground Truth (True Positive),0.8864
+XknVaaXJY_k,30:50,False Positive,0.7711
+XknVaaXJY_k,37:20,False Positive,0.7922
+XknVaaXJY_k,42:00,Ground Truth (True Positive),0.7393
+XknVaaXJY_k,62:20,Ground Truth (True Positive),0.9648
+Xuu-qqq25hU,01:20,False Positive,0.6573
+Xuu-qqq25hU,33:50,Ground Truth (True Positive),0.9174
+Xuu-qqq25hU,70:20,Ground Truth (True Positive),0.9159
+Xuu-qqq25hU,107:50,Ground Truth (True Positive),0.9721
+YXdqlGFOmNw,02:00,False Positive,0.7889
+YXdqlGFOmNw,41:50,Ground Truth (True Positive),0.9422
+YXdqlGFOmNw,82:40,Ground Truth (True Positive),0.9576
+ZEz20RdBlQA,01:40,False Positive,0.8638
+ZEz20RdBlQA,13:40,False Positive,0.8854
+ZEz20RdBlQA,17:40,Ground Truth (True Positive),0.7217
+ZEz20RdBlQA,48:40,False Positive,0.551
+ZEz20RdBlQA,52:40,Ground Truth (True Positive),0.9239
+ZEz20RdBlQA,85:10,Ground Truth (True Positive),0.9594
+Zb9bB0t4tyU,02:20,False Positive,0.8659
+Zb9bB0t4tyU,09:10,False Positive,0.6325
+Zb9bB0t4tyU,43:00,Ground Truth (True Positive),0.936
+Zb9bB0t4tyU,46:00,False Positive,0.7438
+Zb9bB0t4tyU,66:50,False Positive,0.6067
+Zb9bB0t4tyU,87:50,Ground Truth (True Positive),0.9684
+_bvT65wMeoE,53:20,Ground Truth (True Positive),0.9467
+_bvT65wMeoE,89:40,Ground Truth (True Positive),0.9282
+a4YvDSgzUYg,01:30,False Positive,0.647
+a4YvDSgzUYg,19:20,Ground Truth (True Positive),0.7161
+a4YvDSgzUYg,53:30,Ground Truth (True Positive),0.9204
+a4YvDSgzUYg,80:30,False Positive,0.696
+a4YvDSgzUYg,83:30,Ground Truth (True Positive),0.667
+a9lovmzo94g,36:10,Ground Truth (True Positive),0.9265
+a9lovmzo94g,38:20,False Positive,0.5519
+a9lovmzo94g,72:40,Ground Truth (True Positive),0.93
+a9lovmzo94g,103:30,Ground Truth (True Positive),0.9015
+aQBFixFqv6M,01:40,Ground Truth (True Positive),0.6856
+aQBFixFqv6M,05:50,False Positive,0.8673
+aQBFixFqv6M,10:00,False Positive,0.6093
+aQBFixFqv6M,59:20,Ground Truth (True Positive),0.9198
+aQBFixFqv6M,112:30,Ground Truth (True Positive),0.9643
+aVbILMqNxgQ,01:10,False Positive,0.8048
+aVbILMqNxgQ,12:20,Ground Truth (True Positive),0.8673
+aVbILMqNxgQ,35:00,Ground Truth (True Positive),0.9176
+aVbILMqNxgQ,42:20,Ground Truth (True Positive),0.9372
+aVbILMqNxgQ,75:10,Ground Truth (True Positive),0.9004
+abxgAZ2a-RQ,01:30,False Positive,0.7638
+abxgAZ2a-RQ,77:20,Ground Truth (True Positive),0.9434
+abxgAZ2a-RQ,120:40,Ground Truth (True Positive),0.9555
+anKdXQ-kfyc,25:30,Ground Truth (True Positive),0.6377
+anKdXQ-kfyc,28:40,Ground Truth (True Positive),0.9281
+anKdXQ-kfyc,56:40,Ground Truth (True Positive),0.9406
+anKdXQ-kfyc,86:50,Ground Truth (True Positive),0.9713
+b7OrCQP5EC4,12:20,False Positive,0.5783
+b7OrCQP5EC4,21:20,False Positive,0.581
+b7OrCQP5EC4,52:50,Ground Truth (True Positive),0.9255
+b7OrCQP5EC4,77:10,Ground Truth (True Positive),0.8781
+bAw40bYAbuQ,05:20,False Positive,0.8792
+bAw40bYAbuQ,11:00,Ground Truth (True Positive),0.8792
+bAw40bYAbuQ,32:10,Ground Truth (True Positive),0.9252
+bAw40bYAbuQ,54:10,Ground Truth (True Positive),0.9703
+bUKJkaLWeGw,04:40,False Positive,0.7243
+bUKJkaLWeGw,09:20,Ground Truth (True Positive),0.8807
+bUKJkaLWeGw,70:30,Ground Truth (True Positive),0.9445
+bUKJkaLWeGw,105:50,Ground Truth (True Positive),0.9614
+bvxlnZ5UFcs,06:00,False Positive,0.8678
+bvxlnZ5UFcs,12:20,Ground Truth (True Positive),0.8575
+bvxlnZ5UFcs,29:40,False Positive,0.764
+bvxlnZ5UFcs,49:50,Ground Truth (True Positive),0.6354
+bvxlnZ5UFcs,81:10,Ground Truth (True Positive),0.9343
+bvxlnZ5UFcs,108:50,Ground Truth (True Positive),0.9683
+cS0jXqcBZFg,04:10,Ground Truth (True Positive),0.8936
+cS0jXqcBZFg,34:20,Ground Truth (True Positive),0.566
+cS0jXqcBZFg,71:30,Ground Truth (True Positive),0.9576
+cTNEIRS50D8,03:00,Ground Truth (True Positive),0.8773
+cTNEIRS50D8,25:30,Ground Truth (True Positive),0.9247
+cTNEIRS50D8,41:10,Ground Truth (True Positive),0.9403
+cTNEIRS50D8,72:50,Ground Truth (True Positive),0.9739
+cis2raB_Bdo,01:40,False Positive,0.8407
+cis2raB_Bdo,54:10,Ground Truth (True Positive),0.9286
+cis2raB_Bdo,66:10,Ground Truth (True Positive),0.8344
+cis2raB_Bdo,95:40,Ground Truth (True Positive),0.9669
+dZrdd2MmkNs,01:30,Ground Truth (True Positive),0.7194
+dZrdd2MmkNs,10:50,Ground Truth (True Positive),0.6732
+dZrdd2MmkNs,14:20,Ground Truth (True Positive),0.8752
+dZrdd2MmkNs,23:30,Ground Truth (True Positive),0.9283
+dZrdd2MmkNs,39:40,False Positive,0.669
+dZrdd2MmkNs,60:00,Ground Truth (True Positive),0.875
+dZrdd2MmkNs,64:20,Ground Truth (True Positive),0.9487
+dZrdd2MmkNs,89:50,False Positive,0.5959
+djAw3gYe0eA,01:50,False Positive,0.8295
+djAw3gYe0eA,22:00,False Positive,0.6967
+djAw3gYe0eA,31:10,False Positive,0.8894
+djAw3gYe0eA,35:50,Ground Truth (True Positive),0.9366
+djAw3gYe0eA,63:30,Ground Truth (True Positive),0.9666
+dpwbfTta0XE,05:10,Ground Truth (True Positive),0.8512
+dpwbfTta0XE,38:20,Ground Truth (True Positive),0.9113
+dpwbfTta0XE,91:10,Ground Truth (True Positive),0.8473
+e4e0e7APJT0,22:40,False Positive,0.7998
+e4e0e7APJT0,41:10,False Positive,0.715
+e4e0e7APJT0,45:50,Ground Truth (True Positive),0.916
+e4e0e7APJT0,50:30,False Positive,0.6484
+e4e0e7APJT0,102:00,False Positive,0.7448
+e4e0e7APJT0,105:40,Ground Truth (True Positive),0.9739
+egz-Hx4iLDw,16:50,False Positive,0.5695
+egz-Hx4iLDw,28:00,Ground Truth (True Positive),0.8332
+egz-Hx4iLDw,40:20,False Positive,0.6254
+egz-Hx4iLDw,62:20,Ground Truth (True Positive),0.9296
+egz-Hx4iLDw,66:00,False Positive,0.7965
+egz-Hx4iLDw,92:10,Ground Truth (True Positive),0.9648
+f-OmVBjIC5M,04:40,False Positive,0.6929
+f-OmVBjIC5M,10:10,Ground Truth (True Positive),0.7468
+f-OmVBjIC5M,20:30,Ground Truth (True Positive),0.7303
+f-OmVBjIC5M,49:00,Ground Truth (True Positive),0.9403
+f-OmVBjIC5M,82:10,Ground Truth (True Positive),0.9625
+fExN7E8vtZ0,01:10,False Positive,0.8036
+fExN7E8vtZ0,07:00,Ground Truth (True Positive),0.8725
+fExN7E8vtZ0,29:20,Ground Truth (True Positive),0.9439
+fExN7E8vtZ0,46:50,False Positive,0.7668
+fExN7E8vtZ0,49:40,Ground Truth (True Positive),0.9372
+fExN7E8vtZ0,59:00,False Positive,0.5801
+fExN7E8vtZ0,85:10,Ground Truth (True Positive),0.9506
+fExN7E8vtZ0,90:20,False Positive,0.7588
+g66tJLCQmlQ,36:20,Ground Truth (True Positive),0.8999
+g66tJLCQmlQ,64:20,Ground Truth (True Positive),0.9339
+g66tJLCQmlQ,102:40,Ground Truth (True Positive),0.9733
+jdfSNUgJxCI,04:20,False Positive,0.569
+jdfSNUgJxCI,24:50,False Positive,0.5869
+jdfSNUgJxCI,34:50,False Positive,0.7025
+jdfSNUgJxCI,39:00,Ground Truth (True Positive),0.8735
+jdfSNUgJxCI,73:40,Ground Truth (True Positive),0.7995
+jdfSNUgJxCI,101:40,False Positive,0.7541
+jhsLkaovRf4,02:00,Ground Truth (True Positive),0.8784
+jhsLkaovRf4,10:50,Ground Truth (True Positive),0.8673
+jhsLkaovRf4,21:20,Ground Truth (True Positive),0.6664
+jhsLkaovRf4,29:30,Ground Truth (True Positive),0.9019
+jhsLkaovRf4,33:00,False Positive,0.7325
+jhsLkaovRf4,61:40,Ground Truth (True Positive),0.9719
+kRQHSycmvd0,04:50,Ground Truth (True Positive),0.7902
+kRQHSycmvd0,27:50,False Positive,0.7625
+kRQHSycmvd0,51:10,False Positive,0.8929
+kRQHSycmvd0,53:40,Ground Truth (True Positive),0.9368
+kRQHSycmvd0,58:20,False Positive,0.5558
+kRQHSycmvd0,72:20,Ground Truth (True Positive),0.8409
+kRQHSycmvd0,91:00,Ground Truth (True Positive),0.972
+kTElzwepV88,01:50,Ground Truth (True Positive),0.8678
+kTElzwepV88,05:00,Ground Truth (True Positive),0.8786
+kTElzwepV88,15:50,Ground Truth (True Positive),0.869
+kTElzwepV88,39:50,Ground Truth (True Positive),0.9293
+kTElzwepV88,83:20,Ground Truth (True Positive),0.9485
+kdlzHIbwQfs,03:20,False Positive,0.8239
+kdlzHIbwQfs,14:50,Ground Truth (True Positive),0.8713
+kdlzHIbwQfs,52:10,Ground Truth (True Positive),0.9354
+kdlzHIbwQfs,98:10,Ground Truth (True Positive),0.9435
+lScrhK9Za6k,01:40,False Positive,0.7234
+lScrhK9Za6k,17:20,False Positive,0.7527
+lScrhK9Za6k,33:30,Ground Truth (True Positive),0.9093
+lScrhK9Za6k,44:20,False Positive,0.6237
+lScrhK9Za6k,62:30,False Positive,0.6244
+lScrhK9Za6k,67:30,False Positive,0.7485
+lScrhK9Za6k,74:40,Ground Truth (True Positive),0.722
+lScrhK9Za6k,80:40,False Positive,0.8419
+lScrhK9Za6k,119:50,Ground Truth (True Positive),0.973
+leN-vjrW1eU,04:20,Ground Truth (True Positive),0.7618
+leN-vjrW1eU,10:20,False Positive,0.8454
+leN-vjrW1eU,13:30,False Positive,0.5514
+leN-vjrW1eU,38:40,False Positive,0.8766
+leN-vjrW1eU,44:50,False Positive,0.5782
+leN-vjrW1eU,65:10,Ground Truth (True Positive),0.8954
+leN-vjrW1eU,120:40,Ground Truth (True Positive),0.8748
+leOu1G1faBE,02:20,Ground Truth (True Positive),0.7349
+leOu1G1faBE,26:50,Ground Truth (True Positive),0.9198
+leOu1G1faBE,30:40,False Positive,0.6167
+leOu1G1faBE,51:10,Ground Truth (True Positive),0.8366
+leOu1G1faBE,70:10,Ground Truth (True Positive),0.9118
+leOu1G1faBE,79:50,False Positive,0.6449
+leOu1G1faBE,112:40,False Positive,0.6301
+leOu1G1faBE,117:10,Ground Truth (True Positive),0.9549
+mPWvB0WEwZw,02:40,False Positive,0.8571
+mPWvB0WEwZw,07:30,False Positive,0.7146
+mPWvB0WEwZw,16:10,Ground Truth (True Positive),0.8603
+mPWvB0WEwZw,35:00,False Positive,0.602
+mPWvB0WEwZw,49:00,Ground Truth (True Positive),0.9336
+mPWvB0WEwZw,59:30,False Positive,0.7485
+mPWvB0WEwZw,79:30,False Positive,0.6176
+mPWvB0WEwZw,110:10,Ground Truth (True Positive),0.9165
+mPWvB0WEwZw,123:20,False Positive,0.7789
+n8uX0X9eiVg,01:40,False Positive,0.7858
+n8uX0X9eiVg,05:10,Ground Truth (True Positive),0.8718
+n8uX0X9eiVg,19:10,False Positive,0.6951
+n8uX0X9eiVg,52:10,False Positive,0.642
+n8uX0X9eiVg,57:00,Ground Truth (True Positive),0.932
+n8uX0X9eiVg,89:20,Ground Truth (True Positive),0.9374
+nMwkk5jozAw,37:30,Ground Truth (True Positive),0.9345
+nMwkk5jozAw,42:20,False Positive,0.878
+nMwkk5jozAw,57:40,False Positive,0.8711
+nMwkk5jozAw,60:10,Ground Truth (True Positive),0.9264
+nMwkk5jozAw,102:50,Ground Truth (True Positive),0.9514
+nmKCUFGq0hA,01:40,False Positive,0.7411
+nmKCUFGq0hA,28:40,Ground Truth (True Positive),0.8844
+nmKCUFGq0hA,72:40,False Positive,0.7969
+nmKCUFGq0hA,75:50,Ground Truth (True Positive),0.6353
+nmKCUFGq0hA,113:10,Ground Truth (True Positive),0.9389
+nnC-qeutqFM,01:30,False Positive,0.7499
+nnC-qeutqFM,34:00,Ground Truth (True Positive),0.7249
+nnC-qeutqFM,36:10,False Positive,0.7306
+nnC-qeutqFM,52:30,Ground Truth (True Positive),0.9201
+obNj3gaJros,01:40,Ground Truth (True Positive),0.7437
+obNj3gaJros,11:20,Ground Truth (True Positive),0.778
+obNj3gaJros,16:10,Ground Truth (True Positive),0.7566
+obNj3gaJros,33:20,Ground Truth (True Positive),0.9331
+obNj3gaJros,55:30,Ground Truth (True Positive),0.9714
+rM6qPSeEvcA,10:00,False Positive,0.7255
+rM6qPSeEvcA,28:10,False Positive,0.6736
+rM6qPSeEvcA,57:50,Ground Truth (True Positive),0.8834
+rM6qPSeEvcA,87:40,Ground Truth (True Positive),0.9372
+rM6qPSeEvcA,126:30,Ground Truth (True Positive),0.969
+stCaFJ77Nc0,42:10,False Positive,0.619
+stCaFJ77Nc0,61:20,Ground Truth (True Positive),0.9012
+stCaFJ77Nc0,68:30,False Positive,0.7358
+stCaFJ77Nc0,89:30,Ground Truth (True Positive),0.9702
+stfN4kzaDcw,02:10,Ground Truth (True Positive),0.8781
+stfN4kzaDcw,39:20,Ground Truth (True Positive),0.9295
+stfN4kzaDcw,119:00,Ground Truth (True Positive),0.769
+tVG-PoH-n80,04:50,False Positive,0.6672
+tVG-PoH-n80,29:40,Ground Truth (True Positive),0.9325
+tVG-PoH-n80,49:00,Ground Truth (True Positive),0.9012
+tVG-PoH-n80,61:20,False Positive,0.858
+tVG-PoH-n80,64:20,Ground Truth (True Positive),0.9379
+tVG-PoH-n80,70:00,False Positive,0.9062
+tVG-PoH-n80,110:10,Ground Truth (True Positive),0.967
+tVG-PoH-n80,124:50,False Positive,0.5589
+u4_9_elgJyg,01:20,Ground Truth (True Positive),0.7064
+u4_9_elgJyg,29:20,Ground Truth (True Positive),0.6292
+u4_9_elgJyg,35:40,False Positive,0.6812
+u4_9_elgJyg,53:30,False Positive,0.6191
+u4_9_elgJyg,56:30,Ground Truth (True Positive),0.932
+u4_9_elgJyg,111:10,Ground Truth (True Positive),0.9715
+vxObcVWDpJY,02:00,False Positive,0.8629
+vxObcVWDpJY,13:50,False Positive,0.8064
+vxObcVWDpJY,28:50,False Positive,0.56
+vxObcVWDpJY,64:20,Ground Truth (True Positive),0.9369
+vxObcVWDpJY,76:30,False Positive,0.6089
+xVFrlN1aQIE,03:30,Ground Truth (True Positive),0.6212
+xVFrlN1aQIE,34:30,Ground Truth (True Positive),0.9256
+xVFrlN1aQIE,65:30,False Positive,0.7376
+xVFrlN1aQIE,108:30,Ground Truth (True Positive),0.9629
+xtSnzvJFyYU,11:20,Ground Truth (True Positive),0.8996
+xtSnzvJFyYU,19:10,False Positive,0.7054
+xtSnzvJFyYU,51:10,Ground Truth (True Positive),0.9392
+xtSnzvJFyYU,112:30,False Positive,0.6893
+xtSnzvJFyYU,127:00,Ground Truth (True Positive),0.9658
+ym-hIVRp-4Q,01:50,False Positive,0.8347
+ym-hIVRp-4Q,04:00,False Positive,0.8113
+ym-hIVRp-4Q,17:20,False Positive,0.7569
+ym-hIVRp-4Q,31:00,Ground Truth (True Positive),0.9113
+ym-hIVRp-4Q,87:40,Ground Truth (True Positive),0.9625
+yp8GigxUc8A,14:10,False Positive,0.838
+yp8GigxUc8A,16:20,Ground Truth (True Positive),0.8673
+yp8GigxUc8A,28:00,Ground Truth (True Positive),0.808
+yp8GigxUc8A,63:10,Ground Truth (True Positive),0.9677

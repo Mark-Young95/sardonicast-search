@@ -1,3 +1,28 @@
+.venv/
+.env
+__pycache__/
+.DS_Store
+
+# Audio files, YouTube metadata and Transcripts
+diarized_transcripts/
+metadata_cache/
+data/
+transcript_cache/
+audio_cache/
+audio_cache_perm/
+
+# Other training data
+verified_outputs/
+
+
+
+
+
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
